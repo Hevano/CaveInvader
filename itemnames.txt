@@ -1,0 +1,68 @@
+1: ____ Weapon
+Poor,
+Shoddy,
+Crude,
+Defective,
+Cheap,
+Busted,
+Makeshift,
+Disgraceful,
+Bum
+
+1: ____ Weapon
+Standard,
+Serviceable,
+Decent,
+Fresh,
+Moderate,
+Classic,
+Basic,
+Funtional,
+Working man's
+
+3: ____ Weapon
+Honed,
+Polished,
+Refined,
+Expertly Made,
+High Quality,
+Tempered,
+Perfect,
+Reinforced,
+Expensive
+
+
+5: Element ____ Weapon
+Fickering,
+Touched,
+Infused,
+Blessed,
+Charged,
+Tipped,
+Edged,
+Kiss
+
+6:  ____ Element Weapon
+Glowing,
+Pulsating,
+True,
+Essential,
+Elemental,
+Ultimate,
+Divine,
+Enchanted,
+Eternal
+
+ELEMENTS:
+Fire,
+Water,
+Wind,
+Storm,
+Lightening,
+Frost,
+Dark,
+Light,
+Radiant,
+Necrotic,
+Earthen,
+Life Force,

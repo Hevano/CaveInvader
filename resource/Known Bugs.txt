@@ -1,0 +1,3 @@
+1. Enemy can parry the player when it has no stamina
+2. Player cannot rest
+3. If both player nad monster are out of stamina, player can still attack the monster
